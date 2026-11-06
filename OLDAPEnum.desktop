@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OLDAPEnum
+Comment=LDAP/AD Enumerator
+Exec=OLDAPEnum
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OAttack;
